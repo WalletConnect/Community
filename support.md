@@ -20,8 +20,8 @@ WalletConnect prides itself on building great software that makes the lives of d
 
 **Support Expectations**
 
- - If you post your question in the appropriate forum on the WalletConnect discord server you will get a response within one business day
- - You will get an answer or notice of escalation within two business days
+ - If you post your question in the appropriate forum on the WalletConnect discord server you will get a response within three business days
+ - You will get an answer or notice of escalation within three business days
  - If your issue is suspected of being a bug, we may ask you to fill out a bug report. If you’ve already provided sufficient information for one, we’ll post it for you and share a link to the issue. Once a report is submitted you’ll be updated on the progress and be notified when we’ve shipped a fix for that bug
  - If you report a bug or a feature it will be labled with the “community suggestion” flag. It will then be reviewed by the core team and either closed or accepted. Accepted status means that the issue/feature will be triaged and added to the roadmap
 
